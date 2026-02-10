@@ -1,0 +1,902 @@
+[
+  {
+    "code": "ART_MUSIC1",
+    "name": "음악Ⅰ",
+    "credits": 1
+  },
+  {
+    "code": "ART_MUSIC2",
+    "name": "음악Ⅱ",
+    "credits": 1
+  },
+  {
+    "code": "BE101a",
+    "name": "프로그래밍",
+    "credits": 3
+  },
+  {
+    "code": "BE201",
+    "name": "인공지능기초",
+    "credits": 3
+  },
+  {
+    "code": "BE202",
+    "name": "데이터사이언스기초",
+    "credits": 3
+  },
+  {
+    "code": "BE203",
+    "name": "창의기계설계",
+    "credits": 3
+  },
+  {
+    "code": "BE204",
+    "name": "화학공학개론",
+    "credits": 3
+  },
+  {
+    "code": "BE205",
+    "name": "회로이론과 계측법(이론)",
+    "credits": 2
+  },
+  {
+    "code": "BE206",
+    "name": "회로이론과 계측법(실습)",
+    "credits": 1
+  },
+  {
+    "code": "BR301",
+    "name": "뇌과학실험Ⅰ(이)",
+    "credits": 3
+  },
+  {
+    "code": "BR302",
+    "name": "뇌공학개론(이,공)",
+    "credits": 3
+  },
+  {
+    "code": "BR303",
+    "name": "뇌과학실험Ⅱ(이)",
+    "credits": 3
+  },
+  {
+    "code": "BR401",
+    "name": "인지뇌과학개론(이)",
+    "credits": 3
+  },
+  {
+    "code": "BR402",
+    "name": "신경생리학(이)",
+    "credits": 3
+  },
+  {
+    "code": "BS101",
+    "name": "다변수미적분학",
+    "credits": 3
+  },
+  {
+    "code": "BS102a",
+    "name": "공학수학Ⅰ",
+    "credits": 3
+  },
+  {
+    "code": "BS103a",
+    "name": "일반물리Ⅰ",
+    "credits": 3
+  },
+  {
+    "code": "BS104a",
+    "name": "일반물리실험Ⅰ",
+    "credits": 1
+  },
+  {
+    "code": "BS105a",
+    "name": "일반물리Ⅱ",
+    "credits": 3
+  },
+  {
+    "code": "BS106a",
+    "name": "일반물리실험Ⅱ",
+    "credits": 1
+  },
+  {
+    "code": "BS113",
+    "name": "일반화학실험Ⅰ",
+    "credits": 1
+  },
+  {
+    "code": "BS114",
+    "name": "생명과학개론",
+    "credits": 3
+  },
+  {
+    "code": "BS115",
+    "name": "일반생물학실험",
+    "credits": 1
+  },
+  {
+    "code": "BS116",
+    "name": "일반생물학Ⅰ",
+    "credits": 3
+  },
+  {
+    "code": "BS117",
+    "name": "일반생물학Ⅱ",
+    "credits": 3
+  },
+  {
+    "code": "BS118",
+    "name": "일반화학Ⅰ",
+    "credits": 3
+  },
+  {
+    "code": "BS119",
+    "name": "일반화학Ⅱ",
+    "credits": 3
+  },
+  {
+    "code": "BS201a",
+    "name": "공학수학Ⅱ",
+    "credits": 3
+  },
+  {
+    "code": "BS202",
+    "name": "확률과통계및실습",
+    "credits": 3
+  },
+  {
+    "code": "BS203",
+    "name": "선형대수학",
+    "credits": 3
+  },
+  {
+    "code": "CE201a",
+    "name": "기초실험(공)",
+    "credits": 3
+  },
+  {
+    "code": "CE301",
+    "name": "반응공학(공)",
+    "credits": 3
+  },
+  {
+    "code": "CE302",
+    "name": "이동현상개론(공)",
+    "credits": 3
+  },
+  {
+    "code": "CE303",
+    "name": "화학공학열역학(공)",
+    "credits": 3
+  },
+  {
+    "code": "CE401",
+    "name": "고분자개론(이,공)",
+    "credits": 3
+  },
+  {
+    "code": "CE402",
+    "name": "공정설계(공)",
+    "credits": 3
+  },
+  {
+    "code": "CHEM201",
+    "name": "분석화학(이,공)",
+    "credits": 3
+  },
+  {
+    "code": "CHEM202",
+    "name": "무기화학Ⅰ(이,공)",
+    "credits": 3
+  },
+  {
+    "code": "CHEM203",
+    "name": "물리화학Ⅰ(이,공)",
+    "credits": 3
+  },
+  {
+    "code": "CHEM204",
+    "name": "유기화학Ⅱ(이,공)",
+    "credits": 3
+  },
+  {
+    "code": "CHEM205",
+    "name": "유기화학Ⅰ(이,공)",
+    "credits": 3
+  },
+  {
+    "code": "CHEM206",
+    "name": "일반화학실험Ⅱ(이)",
+    "credits": 1
+  },
+  {
+    "code": "CHEM301",
+    "name": "심화화학실험Ⅰ(이)",
+    "credits": 2
+  },
+  {
+    "code": "CHEM302",
+    "name": "심화화학실험Ⅱ(이)",
+    "credits": 2
+  },
+  {
+    "code": "CHEM303",
+    "name": "유기화학Ⅲ(이,공)",
+    "credits": 3
+  },
+  {
+    "code": "CHEM304",
+    "name": "물리화학Ⅲ이,공)",
+    "credits": 3
+  },
+  {
+    "code": "CHEM305",
+    "name": "무기화학Ⅱ(이,공)",
+    "credits": 3
+  },
+  {
+    "code": "CHEM306",
+    "name": "물리화학Ⅱ(이,공)",
+    "credits": 3
+  },
+  {
+    "code": "CHEM401",
+    "name": "전기화학(이,공)",
+    "credits": 3
+  },
+  {
+    "code": "CHEM402",
+    "name": "고체화학Ⅰ(이)",
+    "credits": 3
+  },
+  {
+    "code": "CHEM403",
+    "name": "광물리화학개론(이)",
+    "credits": 3
+  },
+  {
+    "code": "CHEM404",
+    "name": "계산화학(이)",
+    "credits": 3
+  },
+  {
+    "code": "CHEM405",
+    "name": "유기금속화학(이)",
+    "credits": 3
+  },
+  {
+    "code": "CSE201",
+    "name": "프로그래밍(이,공)",
+    "credits": 3
+  },
+  {
+    "code": "CSE202",
+    "name": "이산수학(이,공)",
+    "credits": 3
+  },
+  {
+    "code": "CSE203",
+    "name": "자료구조(이,공)",
+    "credits": 3
+  },
+  {
+    "code": "CSE204",
+    "name": "인공지능기초",
+    "credits": 3
+  },
+  {
+    "code": "CSE301",
+    "name": "(이.공)",
+    "credits": 3
+  },
+  {
+    "code": "CSE302",
+    "name": "기계학습개론(공)",
+    "credits": 3
+  },
+  {
+    "code": "CSE303",
+    "name": "딥러닝개론(공)",
+    "credits": 3
+  },
+  {
+    "code": "CSE304",
+    "name": "운영체제(공)",
+    "credits": 3
+  },
+  {
+    "code": "CSE305",
+    "name": "컴퓨터구조(공)",
+    "credits": 3
+  },
+  {
+    "code": "CSE306",
+    "name": "프로그래밍(공)",
+    "credits": 3
+  },
+  {
+    "code": "CSE401",
+    "name": "데이터베이스개론(공)",
+    "credits": 3
+  },
+  {
+    "code": "CSE402",
+    "name": "강화학습(이,공)",
+    "credits": 3
+  },
+  {
+    "code": "CSE403",
+    "name": "(이,공)",
+    "credits": 3
+  },
+  {
+    "code": "CSE404",
+    "name": "컴퓨터비전개론(공)",
+    "credits": 3
+  },
+  {
+    "code": "CSE405",
+    "name": "컴퓨터보안개론(공)",
+    "credits": 3
+  },
+  {
+    "code": "EE201",
+    "name": "디지털논리회로(공)",
+    "credits": 3
+  },
+  {
+    "code": "EE301",
+    "name": "신호및시스템(공)",
+    "credits": 3
+  },
+  {
+    "code": "EE302",
+    "name": "전자소자개론(공)",
+    "credits": 3
+  },
+  {
+    "code": "EE303",
+    "name": "전자회로이론(공)",
+    "credits": 3
+  },
+  {
+    "code": "EE304",
+    "name": "반도체물성개론(공)",
+    "credits": 3
+  },
+  {
+    "code": "EE305",
+    "name": "통신의기초(공)",
+    "credits": 3
+  },
+  {
+    "code": "EE306",
+    "name": "아날로그전자회로(공)",
+    "credits": 3
+  },
+  {
+    "code": "EE401",
+    "name": "디지털신호처리(공)",
+    "credits": 3
+  },
+  {
+    "code": "EE402",
+    "name": "(이,공)",
+    "credits": 3
+  },
+  {
+    "code": "EE403",
+    "name": "디지털통신(공)",
+    "credits": 3
+  },
+  {
+    "code": "EE404",
+    "name": "반도체공정개론(공)",
+    "credits": 3
+  },
+  {
+    "code": "EE405",
+    "name": "반도체공정실습(공)",
+    "credits": 3
+  },
+  {
+    "code": "EE406",
+    "name": "지능형제어시스템(공)",
+    "credits": 3
+  },
+  {
+    "code": "EE407",
+    "name": "(공)",
+    "credits": 3
+  },
+  {
+    "code": "EE408",
+    "name": "(공)",
+    "credits": 3
+  },
+  {
+    "code": "ENG_RESEARCH",
+    "name": "Academic English: Research and Writing",
+    "credits": 2
+  },
+  {
+    "code": "ENG_SPEAK",
+    "name": "Academic English: Speaking and Correspondence",
+    "credits": 2
+  },
+  {
+    "code": "HSS109a",
+    "name": "학술 글쓰기",
+    "credits": 3
+  },
+  {
+    "code": "HSS_CAREER1",
+    "name": "진로탐색 및 전공설계Ⅰ",
+    "credits": 1
+  },
+  {
+    "code": "HSS_CAREER2",
+    "name": "진로탐색 및 전공설계Ⅱ",
+    "credits": 1
+  },
+  {
+    "code": "HSS_FUTURE",
+    "name": "미래 소양강좌",
+    "credits": 1
+  },
+  {
+    "code": "HSS_SCIWRITE",
+    "name": "Scientific Writing",
+    "credits": 3
+  },
+  {
+    "code": "INT1",
+    "name": "인턴십 I",
+    "credits": 1
+  },
+  {
+    "code": "INT2",
+    "name": "인턴십 II",
+    "credits": 1
+  },
+  {
+    "code": "LS201",
+    "name": "생물학야외실습(이)",
+    "credits": 1
+  },
+  {
+    "code": "LS202",
+    "name": "유전학(이)",
+    "credits": 3
+  },
+  {
+    "code": "LS203",
+    "name": "세포생물학실험(이)",
+    "credits": 3
+  },
+  {
+    "code": "LS204",
+    "name": "세포생물학(이)",
+    "credits": 3
+  },
+  {
+    "code": "LS205",
+    "name": "유전학실험(이)",
+    "credits": 3
+  },
+  {
+    "code": "LS206",
+    "name": "생명분석화학(이,공)",
+    "credits": 3
+  },
+  {
+    "code": "LS301b",
+    "name": "뉴바이올로지특강(이)",
+    "credits": 3
+  },
+  {
+    "code": "LS302b",
+    "name": "뇌과학특강(이)",
+    "credits": 3
+  },
+  {
+    "code": "LS303b",
+    "name": "정량생명과학(이)",
+    "credits": 3
+  },
+  {
+    "code": "LS304",
+    "name": "유기적관계(이)",
+    "credits": 3
+  },
+  {
+    "code": "LS305",
+    "name": "신경과학Ⅰ(이)",
+    "credits": 3
+  },
+  {
+    "code": "LS306",
+    "name": "신경과학Ⅱ(이)",
+    "credits": 3
+  },
+  {
+    "code": "LS307",
+    "name": "분자생물학(이)",
+    "credits": 3
+  },
+  {
+    "code": "LS308",
+    "name": "생화학Ⅰ(이)",
+    "credits": 3
+  },
+  {
+    "code": "LS309",
+    "name": "생화학Ⅱ(이)",
+    "credits": 3
+  },
+  {
+    "code": "LS310",
+    "name": "해부생리학(이)",
+    "credits": 3
+  },
+  {
+    "code": "LS311",
+    "name": "생명과학과사회(이)",
+    "credits": 3
+  },
+  {
+    "code": "LS312",
+    "name": "의약품공학(이)",
+    "credits": 3
+  },
+  {
+    "code": "LS313",
+    "name": "분자생물학실험이)",
+    "credits": 3
+  },
+  {
+    "code": "LS314",
+    "name": "상의위대한발견(이)",
+    "credits": 3
+  },
+  {
+    "code": "LS401a",
+    "name": "면역학(이)",
+    "credits": 3
+  },
+  {
+    "code": "LS402",
+    "name": "융합생명과학(이)",
+    "credits": 3
+  },
+  {
+    "code": "LS403",
+    "name": "발달생물학(이)",
+    "credits": 3
+  },
+  {
+    "code": "LS404a",
+    "name": "생명과학특강Ⅲ(이)",
+    "credits": 2
+  },
+  {
+    "code": "LS405",
+    "name": "생물정보학(이,공)",
+    "credits": 3
+  },
+  {
+    "code": "LS406",
+    "name": "의생명공학(이,공)",
+    "credits": 3
+  },
+  {
+    "code": "LS407a",
+    "name": "인체생리학(이)",
+    "credits": 3
+  },
+  {
+    "code": "LS408",
+    "name": "일주기생체리듬(이)",
+    "credits": 3
+  },
+  {
+    "code": "LS409",
+    "name": "식물생명과학(이)",
+    "credits": 3
+  },
+  {
+    "code": "LS410",
+    "name": "현대미생물학(이)",
+    "credits": 3
+  },
+  {
+    "code": "LS411",
+    "name": "계산뇌과학입문(이)",
+    "credits": 3
+  },
+  {
+    "code": "LS412",
+    "name": "뇌질환(이)",
+    "credits": 3
+  },
+  {
+    "code": "LS413",
+    "name": "광학현미경(이,공)",
+    "credits": 3
+  },
+  {
+    "code": "LS414",
+    "name": "암생물학(이)",
+    "credits": 3
+  },
+  {
+    "code": "LS415",
+    "name": "줄기세포생물학(이)",
+    "credits": 3
+  },
+  {
+    "code": "MECH201",
+    "name": "고체역학(공)",
+    "credits": 3
+  },
+  {
+    "code": "MECH202",
+    "name": "유체역학(공)",
+    "credits": 3
+  },
+  {
+    "code": "MECH203",
+    "name": "동역학(공)",
+    "credits": 3
+  },
+  {
+    "code": "MECH301",
+    "name": "인간과공학(공)",
+    "credits": 3
+  },
+  {
+    "code": "MECH302",
+    "name": "의공학개론(공)",
+    "credits": 3
+  },
+  {
+    "code": "MECH303",
+    "name": "기구학(공)",
+    "credits": 3
+  },
+  {
+    "code": "MECH304",
+    "name": "모델링(공)",
+    "credits": 3
+  },
+  {
+    "code": "MECH305",
+    "name": "기계열역학(공)",
+    "credits": 3
+  },
+  {
+    "code": "MECH306",
+    "name": "진동공학(공)",
+    "credits": 3
+  },
+  {
+    "code": "MECH307",
+    "name": "인공지능개론(공)",
+    "credits": 3
+  },
+  {
+    "code": "MECH309",
+    "name": "자동제어시스템(공)",
+    "credits": 3
+  },
+  {
+    "code": "MECH312",
+    "name": "메카트로닉스(공)",
+    "credits": 3
+  },
+  {
+    "code": "MECH313",
+    "name": "로봇전자공학(공)",
+    "credits": 3
+  },
+  {
+    "code": "MECH401",
+    "name": "제어(공)",
+    "credits": 3
+  },
+  {
+    "code": "MECH402",
+    "name": "마이크로/나노공학(공)",
+    "credits": 3
+  },
+  {
+    "code": "MECH404a",
+    "name": "창의공학설계(공)",
+    "credits": 3
+  },
+  {
+    "code": "MECH405",
+    "name": "열전달(공)",
+    "credits": 3
+  },
+  {
+    "code": "MECH406",
+    "name": "기계재료학(이,공)",
+    "credits": 3
+  },
+  {
+    "code": "MSE302",
+    "name": "재료열역학개론(이,공)",
+    "credits": 3
+  },
+  {
+    "code": "MSE303",
+    "name": "나노재료학(공)",
+    "credits": 3
+  },
+  {
+    "code": "MSE305a",
+    "name": "재료공학개론Ⅰ(이,공)",
+    "credits": 3
+  },
+  {
+    "code": "MSE306a",
+    "name": "재료공학개론Ⅱ(이,공)",
+    "credits": 3
+  },
+  {
+    "code": "MSE307",
+    "name": "재료공학실험(공)",
+    "credits": 3
+  },
+  {
+    "code": "MSE402",
+    "name": "재료상변태(공)",
+    "credits": 3
+  },
+  {
+    "code": "MSE403",
+    "name": "전자재료학(공)",
+    "credits": 3
+  },
+  {
+    "code": "MSE404a",
+    "name": "결정학및회절(이,공)",
+    "credits": 3
+  },
+  {
+    "code": "MSE405",
+    "name": "전자물성학(공)",
+    "credits": 3
+  },
+  {
+    "code": "MSE406",
+    "name": "박막재료공학(이,공)",
+    "credits": 3
+  },
+  {
+    "code": "NT001",
+    "name": "비트랙/융합 과목(예시) 1",
+    "credits": 3
+  },
+  {
+    "code": "NT002",
+    "name": "비트랙/융합 과목(예시) 2",
+    "credits": 3
+  },
+  {
+    "code": "PE1",
+    "name": "체육Ⅰ",
+    "credits": 1
+  },
+  {
+    "code": "PE2",
+    "name": "체육Ⅱ",
+    "credits": 1
+  },
+  {
+    "code": "PHY201a",
+    "name": "열및통계물리(이,공)",
+    "credits": 3
+  },
+  {
+    "code": "PHY202a",
+    "name": "해석역학Ⅰ(이,공)",
+    "credits": 3
+  },
+  {
+    "code": "PHY203a",
+    "name": "전기역학Ⅰ(이)",
+    "credits": 3
+  },
+  {
+    "code": "PHY204",
+    "name": "해석역학Ⅱ(이,공)",
+    "credits": 3
+  },
+  {
+    "code": "PHY205a",
+    "name": "현대물리(이)",
+    "credits": 3
+  },
+  {
+    "code": "PHY301",
+    "name": "응용물리실험(이,공)",
+    "credits": 2
+  },
+  {
+    "code": "PHY302a",
+    "name": "고급물리실험(이)",
+    "credits": 2
+  },
+  {
+    "code": "PHY303",
+    "name": "고체물리Ⅰ(이,공)",
+    "credits": 3
+  },
+  {
+    "code": "PHY304",
+    "name": "양자역학Ⅰ(이,공)",
+    "credits": 3
+  },
+  {
+    "code": "PHY305",
+    "name": "양자역학Ⅱ(이,공)",
+    "credits": 3
+  },
+  {
+    "code": "PHY306",
+    "name": "수리물리(이)",
+    "credits": 3
+  },
+  {
+    "code": "PHY307",
+    "name": "응용물리특론(이,공)",
+    "credits": 3
+  },
+  {
+    "code": "PHY308",
+    "name": "전기역학Ⅱ(이)",
+    "credits": 3
+  },
+  {
+    "code": "PHY309",
+    "name": "일반상대론(이)",
+    "credits": 3
+  },
+  {
+    "code": "PHY401",
+    "name": "현대광학(이,공)",
+    "credits": 3
+  },
+  {
+    "code": "PHY403",
+    "name": "고체물리Ⅱ(이,공)",
+    "credits": 3
+  },
+  {
+    "code": "PHY405",
+    "name": "생물물리학(이,공)",
+    "credits": 3
+  },
+  {
+    "code": "PHY406",
+    "name": "전산물리(이)",
+    "credits": 3
+  },
+  {
+    "code": "PHY407",
+    "name": "양자컴퓨팅개론(이,공)",
+    "credits": 3
+  },
+  {
+    "code": "UGRP1",
+    "name": "UGRP I",
+    "credits": 3
+  },
+  {
+    "code": "UGRP2",
+    "name": "UGRP II",
+    "credits": 3
+  }
+]
