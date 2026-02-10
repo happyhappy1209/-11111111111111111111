@@ -1,0 +1,7 @@
+:root { color-scheme: light; }
+* { -webkit-tap-highlight-color: transparent; }
+html, body { height: 100%; }
+body { font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, "Noto Sans KR", Arial, "Apple SD Gothic Neo", "Malgun Gothic", sans-serif; }
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-thumb { background: rgba(148,163,184,.6); border-radius: 999px; }
+::-webkit-scrollbar-track { background: transparent; }
